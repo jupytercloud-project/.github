@@ -1,5 +1,3 @@
-## JupyterCloud Project
-
 jupytercloud-project.github.io
 <!--
 
