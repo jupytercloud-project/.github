@@ -1,5 +1,6 @@
-## Hi there 👋
+## JupyterCloud Project
 
+jupytercloud-project.github.io
 <!--
 
 **Here are some ideas to get you started:**
